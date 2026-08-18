@@ -11,7 +11,7 @@ It recommends the **top 5 movies similar to a selected movie** using movie overv
 
 ## 🖥️ Application Preview
 
-![Movie Recommender System](home.png)
+![Movie Recommender System](screenshots/home.PNG)
 
 ---
 
