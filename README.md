@@ -95,7 +95,7 @@ After preprocessing, approximately **4,806 movie records** are available.
 ## 1. Clone the Repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/krishnalad17/Movie-Recommender-System.git
 cd Movie-Recommender-System
 ```
 
@@ -155,8 +155,6 @@ Movie-Recommender-System/
 │
 └── screenshots/
     ├── home.png
-    ├── movie-selection.png
-    └── recommendations.png
 ```
 
 ---
@@ -215,22 +213,6 @@ joblib.dump(similarity, 'similarity.pkl')
 ```
 
 This prevents the application from recalculating the entire similarity matrix every time it starts.
-
----
-
-## 🖥️ Application Preview
-
-### Home Page
-
-![Home Page](screenshots/home.png)
-
-### Movie Selection
-
-![Movie Selection](screenshots/movie-selection.png)
-
-### Recommendations
-
-![Recommendations](screenshots/recommendations.png)
 
 ---
 
